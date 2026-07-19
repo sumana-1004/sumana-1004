@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1c1c,100:2e2e2e&height=210&section=header&text=Sumana&fontSize=62&fontColor=e9e5df&animation=fadeIn&fontAlignY=36&desc=CSE%20(AI%20%26%20Engineering)%20%E2%80%94%20Amrita%20Vishwa%20Vidyapeetham,%20Chennai&descAlignY=54&descAlign=50&descSize=17" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&weight=500&size=21&duration=3200&pause=1100&color=B8B2A7&center=true&vCenter=true&width=650&lines=something+quiet+underneath+the+structure;C+%C2%B7+Java+%C2%B7+Python;learning+LLMs%2C+RAG%2C+MCP;half+syntax%2C+half+stitchwork" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=21&duration=3200&pause=1100&color=B8B2A7&center=true&vCenter=true&width=650&lines=something+quiet+underneath+the+structure;C+%C2%B7+Java+%C2%B7+Python;learning+LLMs%2C+RAG%2C+MCP;half+syntax%2C+half+stitchwork" />
 </a>
 
 </div>
@@ -78,7 +78,7 @@ This page is a work in progress, same as I am. Everything above is real and stil
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sumana-1004&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=e9e5df&text_color=b8b2a7&icon_color=8a8a8a&ring_color=2e2e2e" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumana-1004&hide_border=true&background=0D0D0D&stroke=2e2e2e&ring=8a8a8a&fire=b8b2a7&currStreakLabel=e9e5df&sideLabels=b8b2a7&currStreakNum=e9e5df&sideNums=e9e5df&dates=8a8a8a" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=sumana-1004&hide_border=true&background=0D0D0D&stroke=2e2e2e&ring=8a8a8a&fire=b8b2a7&currStreakLabel=e9e5df&sideLabels=b8b2a7&currStreakNum=e9e5df&sideNums=e9e5df&dates=8a8a8a" height="165"/>
 
 <br>
 
