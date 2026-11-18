@@ -1,27 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1c1c,100:2e2e2e&height=210&section=header&text=Sumana&fontSize=62&fontColor=e9e5df&animation=fadeIn&fontAlignY=36&desc=CSE%20(AI%20%26%20Engineering)%20%E2%80%94%20Amrita%20Vishwa%20Vidyapeetham,%20Chennai&descAlignY=54&descAlign=50&descSize=17" />
+<img width="100%" height="210" src="https://raw.githubusercontent.com/sumana-1004/sumana-1004/main/assets/banner.jpg" style="object-fit: cover; border-radius: 10px;" />
+
+<br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=21&duration=3200&pause=1100&color=B8B2A7&center=true&vCenter=true&width=650&lines=something+quiet+underneath+the+structure;C+%C2%B7+Java+%C2%B7+Python;learning+LLMs%2C+RAG%2C+MCP;half+syntax%2C+half+stitchwork" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&size=21&duration=3200&pause=1100&color=B8B2A7&center=true&vCenter=true&width=650&lines=something+quiet+underneath+the+structure;C+%C2%B7+Java+%C2%B7+Python+%C2%B7+JavaScript;learning+LLMs%2C+RAG%2C+MCP;half+syntax%2C+half+stitchwork" />
 </a>
 
 </div>
 
 <br>
 
-<!-- Optional: add one of your veil images to an /assets folder in this repo, 
-     then uncomment the line below and point it at that file.
-<img align="right" width="290" src="https://raw.githubusercontent.com/sumana-1004/sumana-1004/main/assets/veil.jpg" />
--->
+<img align="right" width="250" src="https://raw.githubusercontent.com/sumana-1004/sumana-1004/main/assets/snoopy.jpg" style="border-radius: 10px;" />
 
 ### about
 
 what's underneath the surface is usually the interesting part — same reason I like pulling code apart to see how it actually runs.
 
 - 🎓 2nd year, CSE (Artificial Intelligence & Engineering) @ **Amrita Vishwa Vidyapeetham**
-- 🧵 building with **C, Java, Python** — currently going deeper into **LLMs, RAG & MCP**
-- 🐦‍⬛ two things in progress right now, both listed below
+- 🧵 building with **C, Java, Python, JS** — currently going deeper into **LLMs, RAG & MCP**
+- 🗂️ recently shipped [**Tab Vault**](https://github.com/sumana-1004/tab-vault), a cross-browser extension so closed tabs never disappear
 - 🪡 off-screen: crochet, sketching, and anything that ends up half-finished on my desk
 - 📍 Chennai, India
 
@@ -33,7 +32,7 @@ what's underneath the surface is usually the interesting part — same reason I 
 
 ### stack
 
-<img src="https://skillicons.dev/icons?i=c,java,python,git,github,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,git,github,vscode,figma&theme=dark" />
 
 <br><br>
 
@@ -49,6 +48,9 @@ what's underneath the surface is usually the interesting part — same reason I 
 <summary><b>🕸️ currently building</b></summary>
 <br>
 
+**tab vault**
+a lightweight, privacy-first cross-browser MV3 extension (Chrome, Edge, Brave, Firefox, Safari) that automatically vaults closed tabs with open-duration tracking, search, and pinning.
+
 **wildlife tracking system**
 a capstone project on tracking and monitoring wildlife movement patterns. still very much in progress.
 
@@ -61,7 +63,11 @@ applying ML methods to Alzheimer's-related research. also in progress, also very
 <summary><b>🪞 the creative half</b></summary>
 <br>
 
+<img align="right" width="160" src="https://raw.githubusercontent.com/sumana-1004/sumana-1004/main/assets/art.jpg" style="border-radius: 8px;" />
+
 I stitch as much as I code — mostly crochet (hearts, lily of the valley patterns lately), some sketching, and dabbling in graphic design. Different medium, same instinct: keep going until it looks like what you pictured.
+
+<br clear="right"/>
 
 </details>
 
@@ -97,5 +103,3 @@ This page is a work in progress, same as I am. Everything above is real and stil
 <img src="https://komarev.com/ghpvc/?username=sumana-1004&label=visitors&color=2e2e2e&style=flat" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e2e2e,50:1c1c1c,100:0a0a0a&height=100&section=footer" />
