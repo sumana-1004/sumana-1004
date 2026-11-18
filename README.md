@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height="220" src="https://raw.githubusercontent.com/sumana-1004/sumana-1004/main/-2.gif" style="object-fit: cover; border-radius: 12px;" />
+  <img width="100%" height="220" src="./banner.gif" style="object-fit: cover; border-radius: 12px;" />
 </p>
 
 <h3 align="center">✦ marabattini sumana ✦</h3>
@@ -25,7 +25,7 @@
       </ul>
     </td>
     <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/sumana-1004/sumana-1004/main/-4.jpg" width="100%" style="border-radius: 10px;" />
+      <img src="./snoopy.jpg" width="100%" style="border-radius: 10px;" />
       <sub style="font-size: 11px; color: #8e8e93;"><i>late night debugging session</i></sub>
     </td>
   </tr>
@@ -50,7 +50,7 @@
 <table>
   <tr>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/sumana-1004/sumana-1004/main/-3.jpg" width="100%" style="border-radius: 8px;" />
+      <img src="./art.jpg" width="100%" style="border-radius: 8px;" />
       <sub style="font-size: 11px; color: #8e8e93;"><i>the texture of things</i></sub>
     </td>
     <td width="60%" valign="middle" style="padding-left: 15px;">
