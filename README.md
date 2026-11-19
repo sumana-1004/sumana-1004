@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/sumana-m](https://www.linkedin.com/in/sumana-m-ab0748377/)">
+  <a href="https://www.linkedin.com/in/sumana-m-ab0748377">
     <img src="https://img.shields.io/badge/LINKEDIN-141416?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=sumana-1004&color=7aa2f7&style=for-the-badge&label=VISITORS" />
