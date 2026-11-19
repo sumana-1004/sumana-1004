@@ -54,7 +54,7 @@
     <td width="60%" valign="middle" style="padding-left: 15px;">
       <h4><code>the creative half</code></h4>
       <p style="font-size: 13.5px; color: #a1a1aa;">
-        different medium, same instinct: whether it's stitching crochet flowers or writing system scripts, keep going until it matches what you pictured in your head.
+        creativity is everything. what you see, where you find it, everything is secondary. what you do with it matters.
       </p>
     </td>
   </tr>
