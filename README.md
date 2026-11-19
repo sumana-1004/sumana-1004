@@ -20,7 +20,7 @@
         <li>🎓 <b>2nd year AI&E</b> @ Amrita Vishwa Vidyapeetham</li>
         <li>⚡ <b>stack:</b> C, Java, Python, JavaScript, SQL</li>
         <li>🛠️ <b>shipping:</b> <a href="https://github.com/sumana-1004/tab-vault"><b>Tab Vault</b></a> (cross-browser MV3 extension)</li>
-        <li>🧵 <b>off-screen:</b> crochet, sketching, and half-finished desk projects</li>
+        <li>🧵 <b>off-screen:</b> graphic design, crochet, cross-stitching, sketching... whatever you can think of</li>
         <li>📍 Chennai, India</li>
       </ul>
     </td>
@@ -42,8 +42,6 @@
 ### 🗂️ active workspace
 
 * **[Tab Vault](https://github.com/sumana-1004/tab-vault):** Privacy-first cross-browser extension (Chrome, Edge, Brave, Firefox) that automatically vaults closed tabs with search & pinning.
-* **Wildlife Tracking System:** Java spatial indexing engine (KD-Trees & range trees) paired with interactive React GIS mapping.
-* **Alzheimer's ML Research:** Applying machine learning pipelines to medical signal and tremor detection patterns.
 
 ---
 
